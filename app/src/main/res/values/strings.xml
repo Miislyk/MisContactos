@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+    <string name="nombre">Luis Gallegos</string>
+    <string name="telefono">4731194645</string>
+    <string name="email">gac.luish@gmail.com</string>
+    <string name="pNombre">nombre</string>
+    <string name="pTelefono">telefono</string>
+    <string name="pEmail">Email</string>
+</resources>
